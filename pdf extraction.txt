@@ -1,0 +1,4 @@
+cd /d "F:\D\Makereatu AI\makereatu-fbm"
+python scripts/extract_folder.py
+
+But first, update scripts/extract_folder.py so it points to your new PDF folde
