@@ -1,8 +1,0 @@
-F:\D\Makereatu AI\makereatu-fbm\app\services\extraction\classify_doc_type.py
-F:\D\Makereatu AI\makereatu-fbm\app\services\extraction\chunk_by_headings.py
-F:\D\Makereatu AI\makereatu-fbm\app\services\extraction\extract_core_fields_adb.py
-F:\D\Makereatu AI\makereatu-fbm\app\services\extraction\extract_core_fields_wb.py
-F:\D\Makereatu AI\makereatu-fbm\app\services\extraction\normalize_fields.py
-F:\D\Makereatu AI\makereatu-fbm\app\services\extraction\compute_basic_indicators.py
-F:\D\Makereatu AI\makereatu-fbm\app\services\extraction\extract_core_fields_adb.py
-F:\D\Makereatu AI\makereatu-fbm\app\services\extraction\utils.py
